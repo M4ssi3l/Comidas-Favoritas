@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Mis comidas favoritas</title>
+        
+</head>
+
+ <body>
+<h1>Mis comidas favoritas</h1>
+
+<p>Mis comidas favoritas son las siguientes:</p>
+<ol>
+    <li>Pastas con queso y crema de leche</li>
+    <li>Arroz chino</li>
+    <li>Hamburguesa</li>
+    <li>Arrroz de pollo</li>
+    <li>Arepas rellenas</li>
+    <li>Pizza hawaiana</li>
+</ol>
+
+
+</body>
+
+</html>
